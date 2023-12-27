@@ -2,6 +2,10 @@
   <span style="font-size: 30px"><strong>CheeTōs</strong></span>
 </div>
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 <div align="center">
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cheetos-club&amp&hide=contribs,prs;show_icons=true" height="200px" weight="400px"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheetos-club&amp;layout=compact" height="200px"/>
